@@ -5,7 +5,7 @@
     <img align="center" src="https://profile-counter.glitch.me/lovepoem/count.svg" />
   </h3>
 </div>
-<table>
+<table border='0'>
   <tr>
     <td>
     <a href="http://wangxin.io">
